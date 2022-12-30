@@ -1,4 +1,4 @@
-# number_game
+# Number Game
 A number guessing game that allows the user to guess a number within a given range.
 The player decides the range of numbers that will be used in the game.
 If a user decided the range should start from 10 and stop at 145, then the game will have a range from 10 to 145 (inclusive)
